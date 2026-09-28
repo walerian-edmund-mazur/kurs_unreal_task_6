@@ -1,0 +1,3 @@
+G:/Kurs Unreal/Tasks/Task_6/.cmake-vs/CMakeFiles/GameOfLife.dir
+G:/Kurs Unreal/Tasks/Task_6/.cmake-vs/CMakeFiles/ALL_BUILD.dir
+G:/Kurs Unreal/Tasks/Task_6/.cmake-vs/CMakeFiles/ZERO_CHECK.dir

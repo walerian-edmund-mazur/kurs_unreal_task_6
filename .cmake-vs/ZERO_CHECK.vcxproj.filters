@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\Kurs Unreal\Tasks\Task_6\.cmake-vs\CMakeFiles\181a1d70a73cc489a69d88e1b3890d04\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E6CFD466-962D-3CE2-ADD7-20D9424A67E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

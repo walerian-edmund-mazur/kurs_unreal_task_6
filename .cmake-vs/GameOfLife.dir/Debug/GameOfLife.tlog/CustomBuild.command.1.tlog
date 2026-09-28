@@ -1,0 +1,10 @@
+^G:\KURS UNREAL\TASKS\TASK_6\CMAKELISTS.TXT
+setlocal
+C:\Users\Walerian\scoop\apps\cmake\current\bin\cmake.exe "-SG:/Kurs Unreal/Tasks/Task_6" "-BG:/Kurs Unreal/Tasks/Task_6/.cmake-vs" --check-stamp-file "G:/Kurs Unreal/Tasks/Task_6/.cmake-vs/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+# ninja log v7
+9	182	8123242686154296	CMakeFiles/GameOfLife.dir/Bacteria.cpp.obj	91fdc2c595ef74a0
+1	327	8123245101512280	CMakeFiles/GameOfLife.dir/main.cpp.obj	b69c333f89ac062f
+4	378	8123245101547356	CMakeFiles/GameOfLife.dir/GameBoard.cpp.obj	3dd8b4d5edea2495
+379	531	8123245105287684	GameOfLife.exe	34f5a2db11233a2b
