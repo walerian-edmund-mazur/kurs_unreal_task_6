@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/workspaces/kurs_unreal_task_6/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/GameOfLife.dir/main.cpp.o -c /workspaces/kurs_unreal_task_6/main.cpp",
+  "file": "/workspaces/kurs_unreal_task_6/main.cpp",
+  "output": "CMakeFiles/GameOfLife.dir/main.cpp.o"
+},
+{
+  "directory": "/workspaces/kurs_unreal_task_6/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/GameOfLife.dir/GameBoard.cpp.o -c /workspaces/kurs_unreal_task_6/GameBoard.cpp",
+  "file": "/workspaces/kurs_unreal_task_6/GameBoard.cpp",
+  "output": "CMakeFiles/GameOfLife.dir/GameBoard.cpp.o"
+},
+{
+  "directory": "/workspaces/kurs_unreal_task_6/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/GameOfLife.dir/Bacteria.cpp.o -c /workspaces/kurs_unreal_task_6/Bacteria.cpp",
+  "file": "/workspaces/kurs_unreal_task_6/Bacteria.cpp",
+  "output": "CMakeFiles/GameOfLife.dir/Bacteria.cpp.o"
+}
+]
